@@ -1,0 +1,4779 @@
+// 20240905105028
+// https://trello.com/b/ODd26HhM.json
+
+{
+  "id": "66bfa6d64acef3f062b45b99",
+  "nodeId": "ari:cloud:trello::board/workspace/60cb5912a4e12b48e59c7164/66bfa6d64acef3f062b45b99",
+  "name": "Projeto de Software II - RAG",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "dateClosed": null,
+  "idOrganization": "60cb5912a4e12b48e59c7164",
+  "idEnterprise": null,
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 28800
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1280
+      },
+      "totalAccessRequestsPerBoard": {
+        "status": "ok",
+        "disableAt": 4000,
+        "warnAt": 3200
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1600000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 800000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1800000,
+        "warnAt": 1440000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 160
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "customFieldOptions": {
+      "perField": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 900,
+        "warnAt": 720
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 14
+      }
+    }
+  },
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/ODd26HhM/projeto-de-software-ii-rag",
+  "prefs": {
+    "permissionLevel": "org",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "cardCounts": false,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [
+      
+    ],
+    "switcherViews": [
+      {
+        "viewType": "Board",
+        "enabled": true
+      },
+      {
+        "viewType": "Table",
+        "enabled": true
+      },
+      {
+        "viewType": "Calendar",
+        "enabled": false
+      },
+      {
+        "viewType": "Dashboard",
+        "enabled": false
+      },
+      {
+        "viewType": "Timeline",
+        "enabled": false
+      },
+      {
+        "viewType": "Map",
+        "enabled": false
+      }
+    ],
+    "background": "66bfa0840c3b43ebafc5650c",
+    "backgroundColor": null,
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/96a7bccfb2f93ce089ac57cedbe9ba98/photo-1713706017787-ce45708bd498",
+    "backgroundTile": false,
+    "backgroundBrightness": "light",
+    "sharedSourceUrl": "https://images.unsplash.com/photo-1713706017787-ce45708bd498?ixid=M3w3MDY2fDB8MXxjb2xsZWN0aW9ufDF8MzE3MDk5fHx8fHwyfHwxNzIzODM0NDc4fA&ixlib=rb-4.0.3&w=2560&h=2048&q=90",
+    "backgroundImageScaled": [
+      {
+        "width": 140,
+        "height": 93,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 256,
+        "height": 171,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 480,
+        "height": 320,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 960,
+        "height": 641,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x641/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 1024,
+        "height": 684,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x684/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 1280,
+        "height": 855,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x855/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 1920,
+        "height": 1282,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1282/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 2048,
+        "height": 1367,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1367/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 2397,
+        "height": 1600,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2397x1600/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      },
+      {
+        "width": 2560,
+        "height": 1709,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1709/d73d31b6637a8531f691750e4750afee/photo-1713706017787-ce45708bd498.webp"
+      }
+    ],
+    "backgroundBottomColor": "#a7d3ee",
+    "backgroundTopColor": "#7cace7",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "shortLink": "ODd26HhM",
+  "subscribed": false,
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+  },
+  "powerUps": [
+    
+  ],
+  "dateLastActivity": "2024-09-02T21:06:19.661Z",
+  "dateLastView": "2024-09-05T14:50:27.747Z",
+  "shortUrl": "https://trello.com/b/ODd26HhM",
+  "idTags": [
+    
+  ],
+  "datePluginDisable": null,
+  "creationMethod": null,
+  "ixUpdate": "145",
+  "templateGallery": null,
+  "enterpriseOwned": false,
+  "idBoardSource": null,
+  "premiumFeatures": [
+    "additionalBoardBackgrounds",
+    "additionalStickers",
+    "customBoardBackgrounds",
+    "customEmoji",
+    "customStickers",
+    "plugins"
+  ],
+  "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+  "type": null,
+  "actions": [
+    {
+      "id": "66d628cb8caeb4f15fc22da9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "```javascript\nimport axios from 'axios';\n\n// Função para enviar a mensagem ao Ollama\nexport async function ollamaRequest(message) {\n  try {\n    const response = await axios.post('https://localhost/ask', { message });\n    return response.data;\n  } catch (error) {\n    console.error('Erro ao enviar mensagem ao Ollama:', error);\n    throw new Error('Erro ao enviar mensagem ao Ollama');\n  }\n}\n```",
+          "id": "66d628b302f053ae0f82cb66",
+          "name": "Ollama",
+          "idShort": 17,
+          "shortLink": "ns0w0DWS"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-09-02T21:06:19.676Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d628b302f053ae0f82cb81",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66d628b302f053ae0f82cb66",
+          "name": "Ollama",
+          "idShort": 17,
+          "shortLink": "ns0w0DWS"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-09-02T21:05:55.246Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d628aa31fbbf9d0428a02a",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "```javascript\nimport { ollamaRequest } from './ollama';\nimport { queryVectorStore } from './vectorStore';\n\nexport async function processChatMessage(message) {\n  try {\n    // Envia a mensagem ao Ollama para processamento\n    const ollamaResponse = await ollamaRequest(message);\n\n    // Extrai a resposta inicial do Ollama\n    let context = ollamaResponse?.reply || '';\n\n    // Se necessário, faz uma solicitação ao vector store para complementar o contexto\n    const vectorResponse = await queryVectorStore(message);\n\n    // Combina a resposta do Ollama com o contexto adicional do vector store\n    if (vectorResponse?.data?.context) {\n      context += `\\n\\nInformações adicionais: ${vectorResponse.data.context}`;\n    }\n\n    return context;\n  } catch (error) {\n    return `Erro ao processar a mensagem: ${error.message}`;\n  }\n}\n```",
+          "id": "66d62892f5615de39902309c",
+          "name": "Processar mensagem com contexto",
+          "idShort": 16,
+          "shortLink": "gEp1BGod"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-09-02T21:05:46.588Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d62892f5615de3990230a5",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66d62892f5615de39902309c",
+          "name": "Processar mensagem com contexto",
+          "idShort": 16,
+          "shortLink": "gEp1BGod"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-09-02T21:05:22.126Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d628823489025789bea773",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "```javascript\nimport * as faiss from 'faiss'; // Supondo que você tenha uma interface JavaScript para o Faiss\n\n// Função para consultar o vector store (Faiss)\nexport async function queryVectorStore(query) {\n  try {\n    // Carregar o índice Faiss\n    const index = faiss.read_index('faiss_index');\n\n    // Obter embedding da consulta\n    const queryEmbedding = await getEmbedding(query);\n\n    // Buscar o contexto mais próximo\n    const [distances, indices] = index.search(queryEmbedding, 5); // Busca dos 5 vetores mais próximos\n\n    // Aqui você pode implementar lógica para obter os contextos baseados nos índices retornados\n    const context = await getContextFromIndices(indices);\n\n    return { data: { context: context.join('\\n\\n') } };\n  } catch (error) {\n    console.error('Erro ao consultar o vector store:', error);\n    return { data: { context: '' } };\n  }\n}\n\n// Função para transformar o texto em embeddings\nasync function getEmbedding(text) {\n  // Implementar a lógica para transformar o texto em embeddings\n  // Exemplo fictício:\n  const response = await axios.post('https://localhost/embeddings', { text });\n  return response.data.embedding;\n}\n\n// Função para obter contextos baseados nos índices\nasync function getContextFromIndices(indices) {\n  // Implemente a lógica para obter o contexto com base nos índices retornados\n  // Isso pode envolver a leitura de um banco de dados ou outro armazenamento\n  // Exemplo fictício:\n  return indices.map(index => `Contexto para índice ${index}`);\n}\n```",
+          "id": "66d62873a870e15bcb64f5ab",
+          "name": "Armazenamento de Vetor",
+          "idShort": 15,
+          "shortLink": "2eIGz2I5"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-09-02T21:05:06.270Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d62873a870e15bcb64f5b4",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66d62873a870e15bcb64f5ab",
+          "name": "Armazenamento de Vetor",
+          "idShort": 15,
+          "shortLink": "2eIGz2I5"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-09-02T21:04:51.946Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d6285bc985859dfead9b0e",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "```javascript\nimport axios from 'axios';\nimport { readFileSync } from 'fs';\nimport pdfParse from 'pdf-parse';\n\n// Função principal para processar o PDF e enviar os dados ao Vector DB\nexport async function processPDFAndSendToVectorDB(filePath) {\n  try {\n    // Extrair texto do PDF\n    const dataBuffer = readFileSync(filePath);\n    const pdfData = await pdfParse(dataBuffer);\n    const text = pdfData.text;\n\n    // Enviar texto para o Vector DB\n    await sendToVectorDB(text);\n    return true;\n  } catch (error) {\n    console.error('Erro ao processar o PDF:', error);\n    return false;\n  }\n}\n\n// Função para enviar texto e embeddings ao Vector DB\nasync function sendToVectorDB(text) {\n  const embedding = await getEmbedding(text);\n\n  // Criar ou carregar o índice do Faiss\n  const index = faiss.IndexFlatL2(embedding.length);\n\n  // Adicionar embeddings ao índice\n  index.add(embedding);\n\n  // Opcional: Salvar o índice em um arquivo para uso futuro\n  faiss.write_index(index, 'faiss_index');\n}\n\n// Função para transformar o texto em embeddings\nasync function getEmbedding(text) {\n  // Lógica para transformar o texto em embeddings usando Ollama ou outra API de embeddings\n  const response = await axios.post('https://api.ollama.com/embeddings', { text });\n  return response.data.embedding;\n}\n```",
+          "id": "66d628440152843b102b38fc",
+          "name": "Processar PDF",
+          "idShort": 14,
+          "shortLink": "h5oREWQ9"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-09-02T21:04:27.718Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d628440152843b102b3905",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66d628440152843b102b38fc",
+          "name": "Processar PDF",
+          "idShort": 14,
+          "shortLink": "h5oREWQ9"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-09-02T21:04:04.058Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d62830e2e961695b2cb94d",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "// Primeiro, instale as dependências necessárias:\n// bun add elysia \\@elysiajs/html\n\nimport { Elysia } from 'elysia'\nimport { html } from '@elysiajs/html'\nimport { processPDFAndSendToVectorDB } from './processPdf';\nimport { processChatMessage } from './processChatMessage'; // Importa a função de processamento de mensagens\n\nconst app = new Elysia()\n  .use(html())\n  .post('/send-message', async (ctx) => {\n    try {\n      const { message } = await ctx.body;\n      const reply = await processChatMessage(message); // Processa a mensagem usando a função importada\n      return { reply };\n    } catch (error) {\n      return { reply: `Erro ao processar a mensagem: ${error.message}` };\n    }\n  })\n  .post('/upload', async (ctx) => {\n        try {\n          const file = ctx.body.file;\n          const filePath = `/tmp/${file.name}`;\n\n```\n      // Salvar o arquivo localmente\n      await Bun.write(filePath, file.arrayBuffer());\n\n      // Processar o PDF e enviar ao VectorDB\n      const success = await processPDFAndSendToVectorDB(filePath);\n\n      if (success) {\n        return { success: true };\n      } else {\n        return { success: false, message: 'Erro ao processar o PDF' };\n      }\n    } catch (error) {\n      return { success: false, message: error.message };\n    }\n  })\n```\n\n  .get('/', ({ html }) =>\n    html(\n      `<!DOCTYPE html>\n      <html lang=\"en\">\n      <head>\n        <meta charset=\"UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>Chat com Upload de PDF</title>\n        <script src=\"[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com \"‌\")\"></script>\n      </head>\n      <body class=\"bg-gray-100 p-8\">\n        <div class=\"max-w-4xl mx-auto bg-white rounded-lg shadow-md p-6\">\n          <h1 class=\"text-2xl font-bold mb-4\">Chat com Upload de PDF</h1>\n\n```\n      <div class=\"mb-4\">\n        <label for=\"pdfUpload\" class=\"block text-sm font-medium text-gray-700\">Upload PDF</label>\n        <input type=\"file\" id=\"pdfUpload\" accept=\".pdf\" class=\"mt-1 block w-full text-sm text-gray-500\n          file:mr-4 file:py-2 file:px-4\n          file:rounded-full file:border-0\n          file:text-sm file:font-semibold\n          file:bg-violet-50 file:text-violet-700\n          hover:file:bg-violet-100\n        \"/>\n      </div>\n\n      <div id=\"chat\" class=\"border rounded-lg p-4 h-96 overflow-y-auto mb-4\">\n        <!-- Mensagens do chat aparecerão aqui -->\n      </div>\n\n      <div class=\"flex\">\n        <input type=\"text\" id=\"messageInput\" placeholder=\"Digite sua mensagem...\"\n          class=\"flex-grow p-2 border rounded-l-lg focus:outline-none focus:ring-2 focus:ring-blue-500\"/>\n        <button id=\"sendButton\" class=\"bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-600\">\n          Enviar\n        </button>\n      </div>\n    </div>\n\n    <script>\n      const chatDiv = document.getElementById('chat');\n      const messageInput = document.getElementById('messageInput');\n      const sendButton = document.getElementById('sendButton');\n      const pdfUpload = document.getElementById('pdfUpload');\n\n      sendButton.addEventListener('click', sendMessage);\n      messageInput.addEventListener('keypress', (e) => {\n        if (e.key === 'Enter') sendMessage();\n      });\n\n      pdfUpload.addEventListener('change', uploadPDF);\n\n       function sendMessage() {\n        const message = messageInput.value.trim();\n        if (message) {\n          addMessageToChat('Você', message);\n          messageInput.value = '';\n          // Aqui você adicionaria a lógica para enviar a mensagem ao servidor\n          fetch('/send-message', {\n            method: 'POST',\n            headers: {\n              'Content-Type': 'application/json',\n            },\n            body: JSON.stringify({ message }),\n          })\n          .then(response => response.json())\n          .then(data => {\n            addMessageToChat('Sistema', data.reply);\n          })\n          .catch(error => {\n            addMessageToChat('Sistema', `Erro ao enviar a mensagem: ${error.message}`);\n          });\n        }\n      }\n\n      function addMessageToChat(sender, message) {\n        const messageElement = document.createElement('div');\n        messageElement.innerHTML = \\\\`<p><strong>\\\\${sender}:</strong> \\\\${message}</p>\\\\`;\n        chatDiv.appendChild(messageElement);\n        chatDiv.scrollTop = chatDiv.scrollHeight;\n      }\n\n      function uploadPDF(event) {\n      const file = event.target.files[0];\n      if (file && file.type === 'application/pdf') {\n        const formData = new FormData();\n        formData.append('file', file);\n\n        fetch('/upload', {\n          method: 'POST',\n          body: formData\n        })\n        .then(response => response.json())\n        .then(data => {\n          if (data.success) {\n            addMessageToChat('Sistema', `PDF \"${file.name}\" carregado e processado com sucesso.`);\n          } else {\n            addMessageToChat('Sistema', `Falha ao processar o PDF: ${data.message}`);\n          }\n        })\n        .catch(error => {\n          addMessageToChat('Sistema', `Erro ao enviar o PDF: ${error.message}`);\n        });\n      } else {\n        alert('Por favor, selecione um arquivo PDF válido.');\n      }\n    }\n    </script>\n  </body>\n  </html>`\n)\n```\n\n  )\n  .listen(3000)\n\nconsole.log(`Servidor rodando em <http://localhost:3000`)>",
+          "id": "66d6282402f053ae0f820c69",
+          "name": "Base inicial",
+          "idShort": 13,
+          "shortLink": "hbSRkdow"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-09-02T21:03:44.556Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d6282402f053ae0f820c72",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66d6282402f053ae0f820c69",
+          "name": "Base inicial",
+          "idShort": 13,
+          "shortLink": "hbSRkdow"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-09-02T21:03:32.088Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20b916d64e31249e5dfbb",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "pos": 16384,
+          "id": "66d20ae917838f3abe34f550",
+          "name": "Site WEB",
+          "idShort": 12,
+          "shortLink": "AufG7t5b"
+        },
+        "old": {
+          "pos": 393216
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:12:33.424Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20b916d64e31249e5dfa1",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "idList": "66bfb7ad82ddcfa9c5f6ece3",
+          "id": "66d20ae917838f3abe34f550",
+          "name": "Site WEB",
+          "idShort": 12,
+          "shortLink": "AufG7t5b"
+        },
+        "old": {
+          "idList": "66bfa6e2408de8646ecea5c9"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "listBefore": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "listAfter": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:12:33.341Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20b0e9b567b276674a9d4",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "```html\n// Primeiro, instale as dependências necessárias:\n// bun add elysia @elysiajs/html\n\nimport { Elysia } from 'elysia'\nimport { html } from '@elysiajs/html'\n\nconst app = new Elysia()\n  .use(html())\n  .get('/', ({ html }) =>\n    html(\n      `<!DOCTYPE html>\n      <html lang=\"en\">\n      <head>\n        <meta charset=\"UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>Chat com Upload de PDF</title>\n        <script src=\"https://cdn.tailwindcss.com\"></script>\n      </head>\n      <body class=\"bg-gray-100 p-8\">\n        <div class=\"max-w-4xl mx-auto bg-white rounded-lg shadow-md p-6\">\n          <h1 class=\"text-2xl font-bold mb-4\">Chat com Upload de PDF</h1>\n\n          <div class=\"mb-4\">\n            <label for=\"pdfUpload\" class=\"block text-sm font-medium text-gray-700\">Upload PDF</label>\n            <input type=\"file\" id=\"pdfUpload\" accept=\".pdf\" class=\"mt-1 block w-full text-sm text-gray-500\n              file:mr-4 file:py-2 file:px-4\n              file:rounded-full file:border-0\n              file:text-sm file:font-semibold\n              file:bg-violet-50 file:text-violet-700\n              hover:file:bg-violet-100\n            \"/>\n          </div>\n\n          <div id=\"chat\" class=\"border rounded-lg p-4 h-96 overflow-y-auto mb-4\">\n            <!-- Mensagens do chat aparecerão aqui -->\n          </div>\n\n          <div class=\"flex\">\n            <input type=\"text\" id=\"messageInput\" placeholder=\"Digite sua mensagem...\"\n              class=\"flex-grow p-2 border rounded-l-lg focus:outline-none focus:ring-2 focus:ring-blue-500\"/>\n            <button id=\"sendButton\" class=\"bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-600\">\n              Enviar\n            </button>\n          </div>\n        </div>\n\n        <script>\n          const chatDiv = document.getElementById('chat');\n          const messageInput = document.getElementById('messageInput');\n          const sendButton = document.getElementById('sendButton');\n          const pdfUpload = document.getElementById('pdfUpload');\n\n          sendButton.addEventListener('click', sendMessage);\n          messageInput.addEventListener('keypress', (e) => {\n            if (e.key === 'Enter') sendMessage();\n          });\n\n          pdfUpload.addEventListener('change', uploadPDF);\n\n          function sendMessage() {\n            const message = messageInput.value.trim();\n            if (message) {\n              addMessageToChat('Você', message);\n              messageInput.value = '';\n              // Aqui você adicionaria a lógica para enviar a mensagem ao servidor\n            }\n          }\n\n          function addMessageToChat(sender, message) {\n            const messageElement = document.createElement('div');\n            messageElement.innerHTML = \\`<p><strong>\\${sender}:</strong> \\${message}</p>\\`;\n            chatDiv.appendChild(messageElement);\n            chatDiv.scrollTop = chatDiv.scrollHeight;\n          }\n\n          function uploadPDF(event) {\n            const file = event.target.files[0];\n            if (file && file.type === 'application/pdf') {\n              addMessageToChat('Sistema', \\`PDF \"\\${file.name}\" carregado com sucesso.\\`);\n              // Aqui você adicionaria a lógica para enviar o PDF ao servidor\n            } else {\n              alert('Por favor, selecione um arquivo PDF válido.');\n            }\n          }\n        </script>\n      </body>\n      </html>`\n    )\n  )\n  .listen(3000)\n\nconsole.log(`Servidor rodando em http://localhost:3000`)\n```",
+          "id": "66d20ae917838f3abe34f550",
+          "name": "Site WEB",
+          "idShort": 12,
+          "shortLink": "AufG7t5b"
+        },
+        "old": {
+          "desc": "`// Primeiro, instale as dependências necessárias: // bun add elysia @elysiajs/html import { Elysia } from 'elysia' import { html } from '@elysiajs/html' const app = new Elysia() .use(html()) .get('/', ({ html }) => html( `<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Chat com Upload de PDF</title> <script src=\"https://cdn.tailwindcss.com\"></script> </head> <body class=\"bg-gray-100 p-8\"> <div class=\"max-w-4xl mx-auto bg-white rounded-lg shadow-md p-6\"> <h1 class=\"text-2xl font-bold mb-4\">Chat com Upload de PDF</h1> <div class=\"mb-4\"> <label for=\"pdfUpload\" class=\"block text-sm font-medium text-gray-700\">Upload PDF</label> <input type=\"file\" id=\"pdfUpload\" accept=\".pdf\" class=\"mt-1 block w-full text-sm text-gray-500 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-violet-50 file:text-violet-700 hover:file:bg-violet-100 \"/> </div> <div id=\"chat\" class=\"border rounded-lg p-4 h-96 overflow-y-auto mb-4\"> <!-- Mensagens do chat aparecerão aqui --> </div> <div class=\"flex\"> <input type=\"text\" id=\"messageInput\" placeholder=\"Digite sua mensagem...\" class=\"flex-grow p-2 border rounded-l-lg focus:outline-none focus:ring-2 focus:ring-blue-500\"/> <button id=\"sendButton\" class=\"bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-600\"> Enviar </button> </div> </div> <script> const chatDiv = document.getElementById('chat'); const messageInput = document.getElementById('messageInput'); const sendButton = document.getElementById('sendButton'); const pdfUpload = document.getElementById('pdfUpload'); sendButton.addEventListener('click', sendMessage); messageInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') sendMessage(); }); pdfUpload.addEventListener('change', uploadPDF); function sendMessage() { const message = messageInput.value.trim(); if (message) { addMessageToChat('Você', message); messageInput.value = ''; // Aqui você adicionaria a lógica para enviar a mensagem ao servidor } } function addMessageToChat(sender, message) { const messageElement = document.createElement('div'); messageElement.innerHTML = \\`<p><strong>\\${sender}:</strong> \\${message}</p>\\`; chatDiv.appendChild(messageElement); chatDiv.scrollTop = chatDiv.scrollHeight; } function uploadPDF(event) { const file = event.target.files[0]; if (file && file.type === 'application/pdf') { addMessageToChat('Sistema', \\`PDF \"\\${file.name}\" carregado com sucesso.\\`); // Aqui você adicionaria a lógica para enviar o PDF ao servidor } else { alert('Por favor, selecione um arquivo PDF válido.'); } } </script> </body> </html>` ) ) .listen(3000) console.log(`Servidor rodando em http://localhost:3000`)`"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:10:22.019Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20afb670272ba3ce06076",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "`// Primeiro, instale as dependências necessárias: // bun add elysia @elysiajs/html import { Elysia } from 'elysia' import { html } from '@elysiajs/html' const app = new Elysia() .use(html()) .get('/', ({ html }) => html( `<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Chat com Upload de PDF</title> <script src=\"https://cdn.tailwindcss.com\"></script> </head> <body class=\"bg-gray-100 p-8\"> <div class=\"max-w-4xl mx-auto bg-white rounded-lg shadow-md p-6\"> <h1 class=\"text-2xl font-bold mb-4\">Chat com Upload de PDF</h1> <div class=\"mb-4\"> <label for=\"pdfUpload\" class=\"block text-sm font-medium text-gray-700\">Upload PDF</label> <input type=\"file\" id=\"pdfUpload\" accept=\".pdf\" class=\"mt-1 block w-full text-sm text-gray-500 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-violet-50 file:text-violet-700 hover:file:bg-violet-100 \"/> </div> <div id=\"chat\" class=\"border rounded-lg p-4 h-96 overflow-y-auto mb-4\"> <!-- Mensagens do chat aparecerão aqui --> </div> <div class=\"flex\"> <input type=\"text\" id=\"messageInput\" placeholder=\"Digite sua mensagem...\" class=\"flex-grow p-2 border rounded-l-lg focus:outline-none focus:ring-2 focus:ring-blue-500\"/> <button id=\"sendButton\" class=\"bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-600\"> Enviar </button> </div> </div> <script> const chatDiv = document.getElementById('chat'); const messageInput = document.getElementById('messageInput'); const sendButton = document.getElementById('sendButton'); const pdfUpload = document.getElementById('pdfUpload'); sendButton.addEventListener('click', sendMessage); messageInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') sendMessage(); }); pdfUpload.addEventListener('change', uploadPDF); function sendMessage() { const message = messageInput.value.trim(); if (message) { addMessageToChat('Você', message); messageInput.value = ''; // Aqui você adicionaria a lógica para enviar a mensagem ao servidor } } function addMessageToChat(sender, message) { const messageElement = document.createElement('div'); messageElement.innerHTML = \\`<p><strong>\\${sender}:</strong> \\${message}</p>\\`; chatDiv.appendChild(messageElement); chatDiv.scrollTop = chatDiv.scrollHeight; } function uploadPDF(event) { const file = event.target.files[0]; if (file && file.type === 'application/pdf') { addMessageToChat('Sistema', \\`PDF \"\\${file.name}\" carregado com sucesso.\\`); // Aqui você adicionaria a lógica para enviar o PDF ao servidor } else { alert('Por favor, selecione um arquivo PDF válido.'); } } </script> </body> </html>` ) ) .listen(3000) console.log(`Servidor rodando em http://localhost:3000`)`",
+          "id": "66d20ae917838f3abe34f550",
+          "name": "Site WEB",
+          "idShort": 12,
+          "shortLink": "AufG7t5b"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:10:03.752Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20ae917838f3abe34f570",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66d20ae917838f3abe34f550",
+          "name": "Site WEB",
+          "idShort": 12,
+          "shortLink": "AufG7t5b"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-30T18:09:45.870Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a7f616e19143afe4206",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "pos": 32768,
+          "id": "66ca5cb79cbd4e78bc2a4edc",
+          "name": "Limpeza de Dados com remoção de Stop words",
+          "idShort": 10,
+          "shortLink": "qbQzDHoR"
+        },
+        "old": {
+          "pos": 262144
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:07:59.160Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a7f616e19143afe41ec",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "idList": "66bfb7ad82ddcfa9c5f6ece3",
+          "id": "66ca5cb79cbd4e78bc2a4edc",
+          "name": "Limpeza de Dados com remoção de Stop words",
+          "idShort": 10,
+          "shortLink": "qbQzDHoR"
+        },
+        "old": {
+          "idList": "66bfa6e2408de8646ecea5c9"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "listBefore": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "listAfter": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:07:59.094Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a79900bf9fb5b3f5ca3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "idList": "66bfb7ad82ddcfa9c5f6ece3",
+          "id": "66bfa6f46cfd4614b4ed34ef",
+          "name": "Embbed Dados",
+          "idShort": 1,
+          "shortLink": "TbnHLQoX"
+        },
+        "old": {
+          "idList": "66bfa6e2408de8646ecea5c9"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "listBefore": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "listAfter": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:07:53.872Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a77859554e8ca6bc73a",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "idList": "66bfb7ad82ddcfa9c5f6ece3",
+          "id": "66bfa717ebe9bcdb68f90526",
+          "name": "Selecionar Modelo 3B",
+          "idShort": 2,
+          "shortLink": "Qznf0ClM"
+        },
+        "old": {
+          "idList": "66bfa6e2408de8646ecea5c9"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "listBefore": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "listAfter": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:07:51.974Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a75655b2ffab86bc014",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "pos": 294912,
+          "id": "66c696ae03fd4d7376c8b86a",
+          "name": "Testar Faiss",
+          "idShort": 9,
+          "shortLink": "jvLUNSdI"
+        },
+        "old": {
+          "pos": 196608
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:07:49.337Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a75655b2ffab86bbffa",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "idList": "66bfb7ad82ddcfa9c5f6ece3",
+          "id": "66c696ae03fd4d7376c8b86a",
+          "name": "Testar Faiss",
+          "idShort": 9,
+          "shortLink": "jvLUNSdI"
+        },
+        "old": {
+          "idList": "66bfa6e2408de8646ecea5c9"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "listBefore": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "listAfter": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:07:49.277Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a6c4d5d7a9dd3d9da5a",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "![image.png](https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/download/image.png)",
+          "id": "66d20a4b19e3a29d676ad488",
+          "name": "Solução",
+          "idShort": 11,
+          "shortLink": "ip7aREtX"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-30T18:07:40.136Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a6710135cc4b279a747",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "attachment": {
+          "id": "66d20a6610135cc4b279a6c7",
+          "name": "image.png",
+          "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/download/image.png",
+          "previewUrl": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/preview/download/image.png",
+          "previewUrl2x": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/preview2x/download/image.png"
+        },
+        "card": {
+          "id": "66d20a4b19e3a29d676ad488",
+          "name": "Solução",
+          "idShort": 11,
+          "shortLink": "ip7aREtX"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2024-08-30T18:07:35.000Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66d20a4b19e3a29d676ad491",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66d20a4b19e3a29d676ad488",
+          "name": "Solução",
+          "idShort": 11,
+          "shortLink": "ip7aREtX"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-30T18:07:07.437Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66ca5cb79cbd4e78bc2a4ee5",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66ca5cb79cbd4e78bc2a4edc",
+          "name": "Limpeza de Dados com remoção de Stop words",
+          "idShort": 10,
+          "shortLink": "qbQzDHoR"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-24T22:20:39.400Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c696ae03fd4d7376c8b873",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66c696ae03fd4d7376c8b86a",
+          "name": "Testar Faiss",
+          "idShort": 9,
+          "shortLink": "jvLUNSdI"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-22T01:38:54.219Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c6406a1d3c6281d1fdc90c",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "```python\nimport pandas as pd\n\n# Carregar o arquivo CSV\ndf = pd.read_csv('output.csv', sep=';',on_bad_lines='skip')\n\n# Criar duas novas colunas com valores padrão\ndf['nova_coluna1'] = ''\ndf['nova_coluna2'] = ''\n\n# Definir o texto específico que você está procurando\ntexto_especifico = 'recuperando'\n\n# Processar cada linha para encontrar o texto específico\nfor index, row in df.iterrows():\n    for coluna in df.columns:\n        if texto_especifico in str(row[coluna]):\n            # Encontrar o índice da coluna\n            indice_coluna = df.columns.get_loc(coluna)\n\n            # Verificar se existe uma próxima coluna\n            if indice_coluna + 1 < len(df.columns):\n                # Mover o texto específico e a próxima coluna para as novas colunas\n                df.at[index, 'nova_coluna1'] = row[indice_coluna]\n                df.at[index, 'nova_coluna2'] = row[indice_coluna + 1]\n                break\n\n# Reordenar as colunas para que as novas colunas sejam as primeiras\ncolunas_finais = ['nova_coluna1', 'nova_coluna2'] + [col for col in df.columns if col not in ['nova_coluna1', 'nova_coluna2']]\ndf = df[colunas_finais]\n\n# Salvar o novo DataFrame em um novo arquivo CSV\ndf.to_csv('output.csv', index=False, sep=';')\n```",
+          "id": "66c6404d6d18004020c091dc",
+          "name": "Processar",
+          "idShort": 8,
+          "shortLink": "As3zI0fT"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-21T19:30:50.203Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c6404d6d18004020c091e5",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66c6404d6d18004020c091dc",
+          "name": "Processar",
+          "idShort": 8,
+          "shortLink": "As3zI0fT"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-21T19:30:21.806Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c6401146e567d7b2761546",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "```python\nimport pandas as pd\nimport re\n\n# 1. Ler o arquivo CSV\ndf = pd.read_csv('output.csv', sep=';', on_bad_lines='skip')\n\n# 2. Definir a função de limpeza de texto\ndef clean_text(text):\n    if isinstance(text, str):  # Verifica se o texto é uma string\n        text = re.sub(r'\\s+', ' ', text)  # Remove múltiplos espaços e quebras de linha\n        return text.strip()\n    return text  # Retorna o texto original se não for string\n\n# 3. Aplicar a limpeza em todas as colunas de texto\nfor col in df.columns:\n    if df[col].dtype == 'object':  # Verifica se a coluna é de texto\n        df[col] = df[col].apply(clean_text)\n\n# 4. Salvar o novo DataFrame em um novo arquivo CSV\ndf.to_csv('limpar.csv', index=False, sep=';')\n```",
+          "id": "66c63ff4ff75dcf50dd5d3f3",
+          "name": "Limpar dados",
+          "idShort": 7,
+          "shortLink": "dOUBF7X5"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-21T19:29:21.767Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c63ff4ff75dcf50dd5d3fc",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66c63ff4ff75dcf50dd5d3f3",
+          "name": "Limpar dados",
+          "idShort": 7,
+          "shortLink": "dOUBF7X5"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-21T19:28:52.408Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c63fef91965cdf57076507",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "closed": true,
+          "id": "66bfb17c112f01a2eab5dbc0",
+          "name": "Organizar Dados",
+          "idShort": 3,
+          "shortLink": "UkSNy2Sw"
+        },
+        "old": {
+          "closed": false
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-21T19:28:47.178Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c63e6aedfe56b50a8d9bbd",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "text": "```python\nimport pandas as pd\n\ndf = pd.read_csv('output.csv', sep=';',on_bad_lines='skip')\nkeyword = 'Remição'\nfiltered_df = df[df['text'].str.contains(keyword, na=False)]\nprint(filtered_df)\n\nimport re def clean_text(text):\n  text = re.sub(r'\\s+', ' ', text) # Remove múltiplos espaços e quebras de linha\n  return text.strip()\n\nfor col in df.columns:\n    if df[col].dtype == 'object':  # Isso verifica se a coluna é de texto\n        df[col] = df[col].apply(clean_text)\n\n# Salvar o novo DataFrame em um novo arquivo CSV\ndf.to_csv('limpar.csv', index=False, sep=';')\n```",
+        "textData": {
+          "emoji": {
+            
+          }
+        },
+        "card": {
+          "id": "66bfb17c112f01a2eab5dbc0",
+          "name": "Organizar Dados",
+          "idShort": 3,
+          "shortLink": "UkSNy2Sw"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "dateLastEdited": "2024-08-21T19:22:35.655Z"
+      },
+      "appCreator": null,
+      "type": "commentCard",
+      "date": "2024-08-21T19:22:18.680Z",
+      "limits": {
+        "reactions": {
+          "perAction": {
+            "status": "ok",
+            "disableAt": 900,
+            "warnAt": 720
+          },
+          "uniquePerAction": {
+            "status": "ok",
+            "disableAt": 17,
+            "warnAt": 14
+          }
+        }
+      },
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c637dce1ec4c3cbc0b39f1",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "ollama pull mxbai-embed-large\n\nollama run mxbai-embed-large",
+          "id": "66c637afcf35d2acc707ae2a",
+          "name": "Download Ollama Embbed",
+          "idShort": 6,
+          "shortLink": "qJY9R3re"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-21T18:54:20.584Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c637afcf35d2acc707ae33",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66c637afcf35d2acc707ae2a",
+          "name": "Download Ollama Embbed",
+          "idShort": 6,
+          "shortLink": "qJY9R3re"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-21T18:53:35.681Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c6379550726602f79dc6e8",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "curl -fsSL [https://ollama.com/install.sh](https://ollama.com/install.sh \"‌\") | sh",
+          "id": "66c6376a689e3810862bdcb8",
+          "name": "Configurar Ollama",
+          "idShort": 5,
+          "shortLink": "M1Zx9EdE"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-21T18:53:09.448Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66c6376a689e3810862bdcc1",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66c6376a689e3810862bdcb8",
+          "name": "Configurar Ollama",
+          "idShort": 5,
+          "shortLink": "M1Zx9EdE"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-21T18:52:26.649Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfb7ca0f0c317a4c1fe471",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "import os\nimport PyPDF2\nimport csv\n\ndef extract\\_colon\\_text(text):\n    lines = text.split(\"\\n\")\n    cleaned_lines = [line.replace(\"  \", \" \").strip() for line in lines if line.strip()]  # Remove linhas em branco\n    return cleaned_lines\n\ndef process\\_pdf(file\\_path):\n    extracted_text = \"\"\n    with open(file\\_path, \"rb\") as pdf\\_file:\n        pdf\\_reader = PyPDF2.PdfReader(pdf\\_file)\n        for page in pdf_reader.pages:\n            extracted\\_text += page.extract\\_text()\n    return extracted_text\n\ndef main():\n    script_directory = os.path.dirname(os.path.abspath(**file**))\n    output_csv = \"output.csv\"\n    folder\\_path = script\\_directory  # Usando o diretório do script como pasta de origem\n\n```\nwith open(output_csv, \"w\", newline=\"\", encoding=\"utf-8\") as csvfile:\n    csv_writer = csv.writer(csvfile,delimiter=';')\n\n    for root, _, files in os.walk(folder_path):\n        for file in files:\n            if file.lower().endswith(\".pdf\"):\n                pdf_path = os.path.join(root, file)\n                pdf_text = process_pdf(pdf_path)\n                extracted_data = extract_colon_text(pdf_text)\n                csv_writer.writerow([pdf_path] + extracted_data)\n\nprint(\"Extração concluída. Dados salvos em\", output_csv)\n```\n\nif **name** == \"**main**\":\n    main()",
+          "id": "66bfb7a98f2b0f5f468419e0",
+          "name": "Criar script Python de Exploração",
+          "idShort": 4,
+          "shortLink": "arHMUzri"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-16T20:34:18.327Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfb7b015abd7ebe417c0d3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "idList": "66bfb7ad82ddcfa9c5f6ece3",
+          "id": "66bfb7a98f2b0f5f468419e0",
+          "name": "Criar script Python de Exploração",
+          "idShort": 4,
+          "shortLink": "arHMUzri"
+        },
+        "old": {
+          "idList": "66bfa6e2408de8646ecea5c9"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "listBefore": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "listAfter": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-16T20:33:52.777Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfb7ad82ddcfa9c5f6ece7",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "list": {
+          "id": "66bfb7ad82ddcfa9c5f6ece3",
+          "name": "Feito"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2024-08-16T20:33:49.934Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfb7a98f2b0f5f468419e9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66bfb7a98f2b0f5f468419e0",
+          "name": "Criar script Python de Exploração",
+          "idShort": 4,
+          "shortLink": "arHMUzri"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-16T20:33:45.697Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfb19316d710caa6f050a2",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "desc": "Fazer toda a organização dos dados, com intuito de deixar mais fácil para IA pesquisar em cima deles.",
+          "id": "66bfb17c112f01a2eab5dbc0",
+          "name": "Organizar Dados",
+          "idShort": 3,
+          "shortLink": "UkSNy2Sw"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2024-08-16T20:07:47.802Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfb17c112f01a2eab5dbc9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66bfb17c112f01a2eab5dbc0",
+          "name": "Organizar Dados",
+          "idShort": 3,
+          "shortLink": "UkSNy2Sw"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-16T20:07:24.178Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfa717ebe9bcdb68f9052f",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66bfa717ebe9bcdb68f90526",
+          "name": "Selecionar Modelo 3B",
+          "idShort": 2,
+          "shortLink": "Qznf0ClM"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-16T19:23:03.460Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfa6f46cfd4614b4ed34f8",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "card": {
+          "id": "66bfa6f46cfd4614b4ed34ef",
+          "name": "Embbed Dados",
+          "idShort": 1,
+          "shortLink": "TbnHLQoX"
+        },
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2024-08-16T19:22:28.280Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfa6e2408de8646ecea5cd",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "list": {
+          "id": "66bfa6e2408de8646ecea5c9",
+          "name": "Modelo do Projeto"
+        },
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2024-08-16T19:22:10.055Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfa6d64acef3f062b45c10",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        },
+        "organization": {
+          "id": "60cb5912a4e12b48e59c7164",
+          "name": "Espaço de trabalho do Trello"
+        }
+      },
+      "appCreator": null,
+      "type": "addToOrganizationBoard",
+      "date": "2024-08-16T19:21:58.234Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    },
+    {
+      "id": "66bfa6d64acef3f062b45c0c",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "data": {
+        "board": {
+          "id": "66bfa6d64acef3f062b45b99",
+          "name": "Projeto de Software II - RAG",
+          "shortLink": "ODd26HhM"
+        }
+      },
+      "appCreator": null,
+      "type": "createBoard",
+      "date": "2024-08-16T19:21:58.223Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c2f99df6d44ae59459e9b15",
+        "activityBlocked": false,
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "fullName": "Helliton Soares Mesquita",
+        "idMemberReferrer": null,
+        "initials": "HM",
+        "nonPublic": {
+          "fullName": "Helliton Soares Mesquita",
+          "initials": "HM",
+          "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+          "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+        },
+        "nonPublicAvailable": true,
+        "username": "hellitonsoaresmesquita"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "66bfb17c112f01a2eab5dbc0",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 1,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": true,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-21T19:28:47.158Z",
+      "dateViewedByCreator": null,
+      "desc": "Fazer toda a organização dos dados, com intuito de deixar mais fácil para IA pesquisar em cima deles.",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+32zjqga7192bfdp8lhc+25vffdhinq@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfa6e2408de8646ecea5c9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Organizar Dados",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66bfb17c112f01a2eab5dbc0",
+      "pos": 196608,
+      "shortLink": "UkSNy2Sw",
+      "shortUrl": "https://trello.com/c/UkSNy2Sw",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/UkSNy2Sw/3-organizar-dados",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66d20a4b19e3a29d676ad488",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-30T18:07:40.111Z",
+      "dateViewedByCreator": null,
+      "desc": "![image.png](https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/download/image.png)",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+332c2a8koayvfzg9cp4+2d8slrcuuz@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfa6e2408de8646ecea5c9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 11,
+      "idAttachmentCover": "66d20a6610135cc4b279a6c7",
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Solução",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66d20a4b19e3a29d676ad488",
+      "pos": 327680,
+      "shortLink": "ip7aREtX",
+      "shortUrl": "https://trello.com/c/ip7aREtX",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/ip7aREtX/11-solu%C3%A7%C3%A3o",
+      "cover": {
+        "idAttachment": "66d20a6610135cc4b279a6c7",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+          {
+            "id": "66d20a6610135cc4b279a733",
+            "_id": "66d20a6610135cc4b279a733",
+            "scaled": false,
+            "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a733/download/image.png",
+            "bytes": 1942,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "id": "66d20a6610135cc4b279a735",
+            "_id": "66d20a6610135cc4b279a735",
+            "scaled": true,
+            "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a735/download/image.png",
+            "bytes": 5044,
+            "height": 91,
+            "width": 150
+          },
+          {
+            "id": "66d20a6610135cc4b279a734",
+            "_id": "66d20a6610135cc4b279a734",
+            "scaled": false,
+            "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a734/download/image.png",
+            "bytes": 11722,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "id": "66d20a6610135cc4b279a736",
+            "_id": "66d20a6610135cc4b279a736",
+            "scaled": true,
+            "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a736/download/image.png",
+            "bytes": 13349,
+            "height": 181,
+            "width": 299
+          },
+          {
+            "id": "66d20a6610135cc4b279a737",
+            "_id": "66d20a6610135cc4b279a737",
+            "scaled": true,
+            "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a737/download/image.png",
+            "bytes": 35457,
+            "height": 363,
+            "width": 600
+          },
+          {
+            "id": "66d20a6610135cc4b279a738",
+            "_id": "66d20a6610135cc4b279a738",
+            "scaled": true,
+            "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a738/download/image.png",
+            "bytes": 25803,
+            "height": 509,
+            "width": 842
+          },
+          {
+            "id": "66d20a6610135cc4b279a739",
+            "_id": "66d20a6610135cc4b279a739",
+            "scaled": true,
+            "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a739/download/image.png",
+            "bytes": 30455,
+            "height": 509,
+            "width": 842
+          }
+        ],
+        "edgeColor": "#2c2c34",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        {
+          "id": "66d20a6610135cc4b279a6c7",
+          "bytes": 30455,
+          "date": "2024-08-30T18:07:34.494Z",
+          "edgeColor": "#2c2c34",
+          "idMember": "5c2f99df6d44ae59459e9b15",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "image.png",
+          "previews": [
+            {
+              "id": "66d20a6610135cc4b279a733",
+              "_id": "66d20a6610135cc4b279a733",
+              "scaled": false,
+              "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a733/download/image.png",
+              "bytes": 1942,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "id": "66d20a6610135cc4b279a734",
+              "_id": "66d20a6610135cc4b279a734",
+              "scaled": false,
+              "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a734/download/image.png",
+              "bytes": 11722,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "id": "66d20a6610135cc4b279a735",
+              "_id": "66d20a6610135cc4b279a735",
+              "scaled": true,
+              "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a735/download/image.png",
+              "bytes": 5044,
+              "height": 91,
+              "width": 150
+            },
+            {
+              "id": "66d20a6610135cc4b279a736",
+              "_id": "66d20a6610135cc4b279a736",
+              "scaled": true,
+              "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a736/download/image.png",
+              "bytes": 13349,
+              "height": 181,
+              "width": 299
+            },
+            {
+              "id": "66d20a6610135cc4b279a737",
+              "_id": "66d20a6610135cc4b279a737",
+              "scaled": true,
+              "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a737/download/image.png",
+              "bytes": 35457,
+              "height": 363,
+              "width": 600
+            },
+            {
+              "id": "66d20a6610135cc4b279a738",
+              "_id": "66d20a6610135cc4b279a738",
+              "scaled": true,
+              "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a738/download/image.png",
+              "bytes": 25803,
+              "height": 509,
+              "width": 842
+            },
+            {
+              "id": "66d20a6610135cc4b279a739",
+              "_id": "66d20a6610135cc4b279a739",
+              "scaled": true,
+              "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/previews/66d20a6610135cc4b279a739/download/image.png",
+              "bytes": 30455,
+              "height": 509,
+              "width": 842
+            }
+          ],
+          "url": "https://trello.com/1/cards/66d20a4b19e3a29d676ad488/attachments/66d20a6610135cc4b279a6c7/download/image.png",
+          "pos": 16384,
+          "fileName": "image.png"
+        }
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66d6282402f053ae0f820c69",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-09-02T21:03:44.538Z",
+      "dateViewedByCreator": null,
+      "desc": "// Primeiro, instale as dependências necessárias:\n// bun add elysia \\@elysiajs/html\n\nimport { Elysia } from 'elysia'\nimport { html } from '@elysiajs/html'\nimport { processPDFAndSendToVectorDB } from './processPdf';\nimport { processChatMessage } from './processChatMessage'; // Importa a função de processamento de mensagens\n\nconst app = new Elysia()\n  .use(html())\n  .post('/send-message', async (ctx) => {\n    try {\n      const { message } = await ctx.body;\n      const reply = await processChatMessage(message); // Processa a mensagem usando a função importada\n      return { reply };\n    } catch (error) {\n      return { reply: `Erro ao processar a mensagem: ${error.message}` };\n    }\n  })\n  .post('/upload', async (ctx) => {\n        try {\n          const file = ctx.body.file;\n          const filePath = `/tmp/${file.name}`;\n\n```\n      // Salvar o arquivo localmente\n      await Bun.write(filePath, file.arrayBuffer());\n\n      // Processar o PDF e enviar ao VectorDB\n      const success = await processPDFAndSendToVectorDB(filePath);\n\n      if (success) {\n        return { success: true };\n      } else {\n        return { success: false, message: 'Erro ao processar o PDF' };\n      }\n    } catch (error) {\n      return { success: false, message: error.message };\n    }\n  })\n```\n\n  .get('/', ({ html }) =>\n    html(\n      `<!DOCTYPE html>\n      <html lang=\"en\">\n      <head>\n        <meta charset=\"UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>Chat com Upload de PDF</title>\n        <script src=\"[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com \"‌\")\"></script>\n      </head>\n      <body class=\"bg-gray-100 p-8\">\n        <div class=\"max-w-4xl mx-auto bg-white rounded-lg shadow-md p-6\">\n          <h1 class=\"text-2xl font-bold mb-4\">Chat com Upload de PDF</h1>\n\n```\n      <div class=\"mb-4\">\n        <label for=\"pdfUpload\" class=\"block text-sm font-medium text-gray-700\">Upload PDF</label>\n        <input type=\"file\" id=\"pdfUpload\" accept=\".pdf\" class=\"mt-1 block w-full text-sm text-gray-500\n          file:mr-4 file:py-2 file:px-4\n          file:rounded-full file:border-0\n          file:text-sm file:font-semibold\n          file:bg-violet-50 file:text-violet-700\n          hover:file:bg-violet-100\n        \"/>\n      </div>\n\n      <div id=\"chat\" class=\"border rounded-lg p-4 h-96 overflow-y-auto mb-4\">\n        <!-- Mensagens do chat aparecerão aqui -->\n      </div>\n\n      <div class=\"flex\">\n        <input type=\"text\" id=\"messageInput\" placeholder=\"Digite sua mensagem...\"\n          class=\"flex-grow p-2 border rounded-l-lg focus:outline-none focus:ring-2 focus:ring-blue-500\"/>\n        <button id=\"sendButton\" class=\"bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-600\">\n          Enviar\n        </button>\n      </div>\n    </div>\n\n    <script>\n      const chatDiv = document.getElementById('chat');\n      const messageInput = document.getElementById('messageInput');\n      const sendButton = document.getElementById('sendButton');\n      const pdfUpload = document.getElementById('pdfUpload');\n\n      sendButton.addEventListener('click', sendMessage);\n      messageInput.addEventListener('keypress', (e) => {\n        if (e.key === 'Enter') sendMessage();\n      });\n\n      pdfUpload.addEventListener('change', uploadPDF);\n\n       function sendMessage() {\n        const message = messageInput.value.trim();\n        if (message) {\n          addMessageToChat('Você', message);\n          messageInput.value = '';\n          // Aqui você adicionaria a lógica para enviar a mensagem ao servidor\n          fetch('/send-message', {\n            method: 'POST',\n            headers: {\n              'Content-Type': 'application/json',\n            },\n            body: JSON.stringify({ message }),\n          })\n          .then(response => response.json())\n          .then(data => {\n            addMessageToChat('Sistema', data.reply);\n          })\n          .catch(error => {\n            addMessageToChat('Sistema', `Erro ao enviar a mensagem: ${error.message}`);\n          });\n        }\n      }\n\n      function addMessageToChat(sender, message) {\n        const messageElement = document.createElement('div');\n        messageElement.innerHTML = \\\\`<p><strong>\\\\${sender}:</strong> \\\\${message}</p>\\\\`;\n        chatDiv.appendChild(messageElement);\n        chatDiv.scrollTop = chatDiv.scrollHeight;\n      }\n\n      function uploadPDF(event) {\n      const file = event.target.files[0];\n      if (file && file.type === 'application/pdf') {\n        const formData = new FormData();\n        formData.append('file', file);\n\n        fetch('/upload', {\n          method: 'POST',\n          body: formData\n        })\n        .then(response => response.json())\n        .then(data => {\n          if (data.success) {\n            addMessageToChat('Sistema', `PDF \"${file.name}\" carregado e processado com sucesso.`);\n          } else {\n            addMessageToChat('Sistema', `Falha ao processar o PDF: ${data.message}`);\n          }\n        })\n        .catch(error => {\n          addMessageToChat('Sistema', `Erro ao enviar o PDF: ${error.message}`);\n        });\n      } else {\n        alert('Por favor, selecione um arquivo PDF válido.');\n      }\n    }\n    </script>\n  </body>\n  </html>`\n)\n```\n\n  )\n  .listen(3000)\n\nconsole.log(`Servidor rodando em <http://localhost:3000`)>",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+332ykou2jo7fyzl96y1+0i3d6suvsr@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfa6e2408de8646ecea5c9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 13,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Base inicial",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66d6282402f053ae0f820c69",
+      "pos": 393216,
+      "shortLink": "hbSRkdow",
+      "shortUrl": "https://trello.com/c/hbSRkdow",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/hbSRkdow/13-base-inicial",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66d628440152843b102b38fc",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-09-02T21:04:27.702Z",
+      "dateViewedByCreator": null,
+      "desc": "```javascript\nimport axios from 'axios';\nimport { readFileSync } from 'fs';\nimport pdfParse from 'pdf-parse';\n\n// Função principal para processar o PDF e enviar os dados ao Vector DB\nexport async function processPDFAndSendToVectorDB(filePath) {\n  try {\n    // Extrair texto do PDF\n    const dataBuffer = readFileSync(filePath);\n    const pdfData = await pdfParse(dataBuffer);\n    const text = pdfData.text;\n\n    // Enviar texto para o Vector DB\n    await sendToVectorDB(text);\n    return true;\n  } catch (error) {\n    console.error('Erro ao processar o PDF:', error);\n    return false;\n  }\n}\n\n// Função para enviar texto e embeddings ao Vector DB\nasync function sendToVectorDB(text) {\n  const embedding = await getEmbedding(text);\n\n  // Criar ou carregar o índice do Faiss\n  const index = faiss.IndexFlatL2(embedding.length);\n\n  // Adicionar embeddings ao índice\n  index.add(embedding);\n\n  // Opcional: Salvar o índice em um arquivo para uso futuro\n  faiss.write_index(index, 'faiss_index');\n}\n\n// Função para transformar o texto em embeddings\nasync function getEmbedding(text) {\n  // Lógica para transformar o texto em embeddings usando Ollama ou outra API de embeddings\n  const response = await axios.post('https://api.ollama.com/embeddings', { text });\n  return response.data.embedding;\n}\n```",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+332yksamga8n6q0spoc+209v3ocnkt@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfa6e2408de8646ecea5c9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 14,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Processar PDF",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66d628440152843b102b38fc",
+      "pos": 458752,
+      "shortLink": "h5oREWQ9",
+      "shortUrl": "https://trello.com/c/h5oREWQ9",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/h5oREWQ9/14-processar-pdf",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66d62873a870e15bcb64f5ab",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-09-02T21:05:06.241Z",
+      "dateViewedByCreator": null,
+      "desc": "```javascript\nimport * as faiss from 'faiss'; // Supondo que você tenha uma interface JavaScript para o Faiss\n\n// Função para consultar o vector store (Faiss)\nexport async function queryVectorStore(query) {\n  try {\n    // Carregar o índice Faiss\n    const index = faiss.read_index('faiss_index');\n\n    // Obter embedding da consulta\n    const queryEmbedding = await getEmbedding(query);\n\n    // Buscar o contexto mais próximo\n    const [distances, indices] = index.search(queryEmbedding, 5); // Busca dos 5 vetores mais próximos\n\n    // Aqui você pode implementar lógica para obter os contextos baseados nos índices retornados\n    const context = await getContextFromIndices(indices);\n\n    return { data: { context: context.join('\\n\\n') } };\n  } catch (error) {\n    console.error('Erro ao consultar o vector store:', error);\n    return { data: { context: '' } };\n  }\n}\n\n// Função para transformar o texto em embeddings\nasync function getEmbedding(text) {\n  // Implementar a lógica para transformar o texto em embeddings\n  // Exemplo fictício:\n  const response = await axios.post('https://localhost/embeddings', { text });\n  return response.data.embedding;\n}\n\n// Função para obter contextos baseados nos índices\nasync function getContextFromIndices(indices) {\n  // Implemente a lógica para obter o contexto com base nos índices retornados\n  // Isso pode envolver a leitura de um banco de dados ou outro armazenamento\n  // Exemplo fictício:\n  return indices.map(index => `Contexto para índice ${index}`);\n}\n```",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+332ykxg4z9k78twxpyj+2lucxxmd3t@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfa6e2408de8646ecea5c9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 15,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Armazenamento de Vetor",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66d62873a870e15bcb64f5ab",
+      "pos": 524288,
+      "shortLink": "2eIGz2I5",
+      "shortUrl": "https://trello.com/c/2eIGz2I5",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/2eIGz2I5/15-armazenamento-de-vetor",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66d62892f5615de39902309c",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-09-02T21:05:46.570Z",
+      "dateViewedByCreator": null,
+      "desc": "```javascript\nimport { ollamaRequest } from './ollama';\nimport { queryVectorStore } from './vectorStore';\n\nexport async function processChatMessage(message) {\n  try {\n    // Envia a mensagem ao Ollama para processamento\n    const ollamaResponse = await ollamaRequest(message);\n\n    // Extrai a resposta inicial do Ollama\n    let context = ollamaResponse?.reply || '';\n\n    // Se necessário, faz uma solicitação ao vector store para complementar o contexto\n    const vectorResponse = await queryVectorStore(message);\n\n    // Combina a resposta do Ollama com o contexto adicional do vector store\n    if (vectorResponse?.data?.context) {\n      context += `\\n\\nInformações adicionais: ${vectorResponse.data.context}`;\n    }\n\n    return context;\n  } catch (error) {\n    return `Erro ao processar a mensagem: ${error.message}`;\n  }\n}\n```",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+332yl0tzqpk8082m7bw+1nccvzssl4@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfa6e2408de8646ecea5c9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 16,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Processar mensagem com contexto",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66d62892f5615de39902309c",
+      "pos": 589824,
+      "shortLink": "gEp1BGod",
+      "shortUrl": "https://trello.com/c/gEp1BGod",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/gEp1BGod/16-processar-mensagem-com-contexto",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66d628b302f053ae0f82cb66",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-09-02T21:06:19.661Z",
+      "dateViewedByCreator": null,
+      "desc": "```javascript\nimport axios from 'axios';\n\n// Função para enviar a mensagem ao Ollama\nexport async function ollamaRequest(message) {\n  try {\n    const response = await axios.post('https://localhost/ask', { message });\n    return response.data;\n  } catch (error) {\n    console.error('Erro ao enviar mensagem ao Ollama:', error);\n    throw new Error('Erro ao enviar mensagem ao Ollama');\n  }\n}\n```",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+332yl4aryeanlcmcxnq+2gfulm70xv@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfa6e2408de8646ecea5c9",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 17,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Ollama",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66d628b302f053ae0f82cb66",
+      "pos": 655360,
+      "shortLink": "ns0w0DWS",
+      "shortUrl": "https://trello.com/c/ns0w0DWS",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/ns0w0DWS/17-ollama",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66d20ae917838f3abe34f550",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-30T18:12:33.404Z",
+      "dateViewedByCreator": null,
+      "desc": "```html\n// Primeiro, instale as dependências necessárias:\n// bun add elysia @elysiajs/html\n\nimport { Elysia } from 'elysia'\nimport { html } from '@elysiajs/html'\n\nconst app = new Elysia()\n  .use(html())\n  .get('/', ({ html }) =>\n    html(\n      `<!DOCTYPE html>\n      <html lang=\"en\">\n      <head>\n        <meta charset=\"UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>Chat com Upload de PDF</title>\n        <script src=\"https://cdn.tailwindcss.com\"></script>\n      </head>\n      <body class=\"bg-gray-100 p-8\">\n        <div class=\"max-w-4xl mx-auto bg-white rounded-lg shadow-md p-6\">\n          <h1 class=\"text-2xl font-bold mb-4\">Chat com Upload de PDF</h1>\n\n          <div class=\"mb-4\">\n            <label for=\"pdfUpload\" class=\"block text-sm font-medium text-gray-700\">Upload PDF</label>\n            <input type=\"file\" id=\"pdfUpload\" accept=\".pdf\" class=\"mt-1 block w-full text-sm text-gray-500\n              file:mr-4 file:py-2 file:px-4\n              file:rounded-full file:border-0\n              file:text-sm file:font-semibold\n              file:bg-violet-50 file:text-violet-700\n              hover:file:bg-violet-100\n            \"/>\n          </div>\n\n          <div id=\"chat\" class=\"border rounded-lg p-4 h-96 overflow-y-auto mb-4\">\n            <!-- Mensagens do chat aparecerão aqui -->\n          </div>\n\n          <div class=\"flex\">\n            <input type=\"text\" id=\"messageInput\" placeholder=\"Digite sua mensagem...\"\n              class=\"flex-grow p-2 border rounded-l-lg focus:outline-none focus:ring-2 focus:ring-blue-500\"/>\n            <button id=\"sendButton\" class=\"bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-600\">\n              Enviar\n            </button>\n          </div>\n        </div>\n\n        <script>\n          const chatDiv = document.getElementById('chat');\n          const messageInput = document.getElementById('messageInput');\n          const sendButton = document.getElementById('sendButton');\n          const pdfUpload = document.getElementById('pdfUpload');\n\n          sendButton.addEventListener('click', sendMessage);\n          messageInput.addEventListener('keypress', (e) => {\n            if (e.key === 'Enter') sendMessage();\n          });\n\n          pdfUpload.addEventListener('change', uploadPDF);\n\n          function sendMessage() {\n            const message = messageInput.value.trim();\n            if (message) {\n              addMessageToChat('Você', message);\n              messageInput.value = '';\n              // Aqui você adicionaria a lógica para enviar a mensagem ao servidor\n            }\n          }\n\n          function addMessageToChat(sender, message) {\n            const messageElement = document.createElement('div');\n            messageElement.innerHTML = \\`<p><strong>\\${sender}:</strong> \\${message}</p>\\`;\n            chatDiv.appendChild(messageElement);\n            chatDiv.scrollTop = chatDiv.scrollHeight;\n          }\n\n          function uploadPDF(event) {\n            const file = event.target.files[0];\n            if (file && file.type === 'application/pdf') {\n              addMessageToChat('Sistema', \\`PDF \"\\${file.name}\" carregado com sucesso.\\`);\n              // Aqui você adicionaria a lógica para enviar o PDF ao servidor\n            } else {\n              alert('Por favor, selecione um arquivo PDF válido.');\n            }\n          }\n        </script>\n      </body>\n      </html>`\n    )\n  )\n  .listen(3000)\n\nconsole.log(`Servidor rodando em http://localhost:3000`)\n```",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+332c2rbn1271l3tsf9s+169exvi8b6@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 12,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Site WEB",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66d20ae917838f3abe34f550",
+      "pos": 16384,
+      "shortLink": "AufG7t5b",
+      "shortUrl": "https://trello.com/c/AufG7t5b",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/AufG7t5b/12-site-web",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66ca5cb79cbd4e78bc2a4edc",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-30T18:07:59.139Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+33162rfqb95wgv9xexo+1i69ftqrgu@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 10,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Limpeza de Dados com remoção de Stop words",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66ca5cb79cbd4e78bc2a4edc",
+      "pos": 32768,
+      "shortLink": "qbQzDHoR",
+      "shortUrl": "https://trello.com/c/qbQzDHoR",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/qbQzDHoR/10-limpeza-de-dados-com-remo%C3%A7%C3%A3o-de-stop-words",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66bfa6f46cfd4614b4ed34ef",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-30T18:07:53.853Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+32zjicrxo0v3uhudsrz+08kvrmzrir@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Embbed Dados",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66bfa6f46cfd4614b4ed34ef",
+      "pos": 65536,
+      "shortLink": "TbnHLQoX",
+      "shortUrl": "https://trello.com/c/TbnHLQoX",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/TbnHLQoX/1-embbed-dados",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66bfa717ebe9bcdb68f90526",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-30T18:07:51.889Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+32zjigm4e5862bu4w12+13fme9g0fp@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Selecionar Modelo 3B",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66bfa717ebe9bcdb68f90526",
+      "pos": 131072,
+      "shortLink": "Qznf0ClM",
+      "shortUrl": "https://trello.com/c/Qznf0ClM",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Qznf0ClM/2-selecionar-modelo-3b",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66bfb7a98f2b0f5f468419e0",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-16T20:34:18.309Z",
+      "dateViewedByCreator": null,
+      "desc": "import os\nimport PyPDF2\nimport csv\n\ndef extract\\_colon\\_text(text):\n    lines = text.split(\"\\n\")\n    cleaned_lines = [line.replace(\"  \", \" \").strip() for line in lines if line.strip()]  # Remove linhas em branco\n    return cleaned_lines\n\ndef process\\_pdf(file\\_path):\n    extracted_text = \"\"\n    with open(file\\_path, \"rb\") as pdf\\_file:\n        pdf\\_reader = PyPDF2.PdfReader(pdf\\_file)\n        for page in pdf_reader.pages:\n            extracted\\_text += page.extract\\_text()\n    return extracted_text\n\ndef main():\n    script_directory = os.path.dirname(os.path.abspath(**file**))\n    output_csv = \"output.csv\"\n    folder\\_path = script\\_directory  # Usando o diretório do script como pasta de origem\n\n```\nwith open(output_csv, \"w\", newline=\"\", encoding=\"utf-8\") as csvfile:\n    csv_writer = csv.writer(csvfile,delimiter=';')\n\n    for root, _, files in os.walk(folder_path):\n        for file in files:\n            if file.lower().endswith(\".pdf\"):\n                pdf_path = os.path.join(root, file)\n                pdf_text = process_pdf(pdf_path)\n                extracted_data = extract_colon_text(pdf_text)\n                csv_writer.writerow([pdf_path] + extracted_data)\n\nprint(\"Extração concluída. Dados salvos em\", output_csv)\n```\n\nif **name** == \"**main**\":\n    main()",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+32zjv7b0pbc2x63p0io+2owza44w5w@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Criar script Python de Exploração",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66bfb7a98f2b0f5f468419e0",
+      "pos": 262144,
+      "shortLink": "arHMUzri",
+      "shortUrl": "https://trello.com/c/arHMUzri",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/arHMUzri/4-criar-script-python-de-explora%C3%A7%C3%A3o",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66c696ae03fd4d7376c8b86a",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-30T18:07:49.319Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+330lfvr9t5woy8ih2ei+06zrchrg84@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 9,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Testar Faiss",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66c696ae03fd4d7376c8b86a",
+      "pos": 294912,
+      "shortLink": "jvLUNSdI",
+      "shortUrl": "https://trello.com/c/jvLUNSdI",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/jvLUNSdI/9-testar-faiss",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66c6376a689e3810862bdcb8",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-21T18:53:09.430Z",
+      "dateViewedByCreator": null,
+      "desc": "curl -fsSL [https://ollama.com/install.sh](https://ollama.com/install.sh \"‌\") | sh",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+330jemh5otaauyvwlo8+13fsendnhv@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Configurar Ollama",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66c6376a689e3810862bdcb8",
+      "pos": 327680,
+      "shortLink": "M1Zx9EdE",
+      "shortUrl": "https://trello.com/c/M1Zx9EdE",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/M1Zx9EdE/5-configurar-ollama",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66c637afcf35d2acc707ae2a",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-21T18:54:20.567Z",
+      "dateViewedByCreator": null,
+      "desc": "ollama pull mxbai-embed-large\n\nollama run mxbai-embed-large",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+330jetzc6n8nb1g25uy+07zromx19f@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 6,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Download Ollama Embbed",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66c637afcf35d2acc707ae2a",
+      "pos": 393216,
+      "shortLink": "qJY9R3re",
+      "shortUrl": "https://trello.com/c/qJY9R3re",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/qJY9R3re/6-download-ollama-embbed",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66c63ff4ff75dcf50dd5d3f3",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-21T19:29:21.730Z",
+      "dateViewedByCreator": null,
+      "desc": "```python\nimport pandas as pd\nimport re\n\n# 1. Ler o arquivo CSV\ndf = pd.read_csv('output.csv', sep=';', on_bad_lines='skip')\n\n# 2. Definir a função de limpeza de texto\ndef clean_text(text):\n    if isinstance(text, str):  # Verifica se o texto é uma string\n        text = re.sub(r'\\s+', ' ', text)  # Remove múltiplos espaços e quebras de linha\n        return text.strip()\n    return text  # Retorna o texto original se não for string\n\n# 3. Aplicar a limpeza em todas as colunas de texto\nfor col in df.columns:\n    if df[col].dtype == 'object':  # Verifica se a coluna é de texto\n        df[col] = df[col].apply(clean_text)\n\n# 4. Salvar o novo DataFrame em um novo arquivo CSV\ndf.to_csv('limpar.csv', index=False, sep=';')\n```",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+330jl6xnjjn9pz7pjw3+1t946u98qc@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 7,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Limpar dados",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66c63ff4ff75dcf50dd5d3f3",
+      "pos": 458752,
+      "shortLink": "dOUBF7X5",
+      "shortUrl": "https://trello.com/c/dOUBF7X5",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/dOUBF7X5/7-limpar-dados",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    },
+    {
+      "id": "66c6404d6d18004020c091dc",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+      },
+      "checkItemStates": [
+        
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "dueComplete": false,
+      "dateLastActivity": "2024-08-21T19:30:50.180Z",
+      "dateViewedByCreator": null,
+      "desc": "```python\nimport pandas as pd\n\n# Carregar o arquivo CSV\ndf = pd.read_csv('output.csv', sep=';',on_bad_lines='skip')\n\n# Criar duas novas colunas com valores padrão\ndf['nova_coluna1'] = ''\ndf['nova_coluna2'] = ''\n\n# Definir o texto específico que você está procurando\ntexto_especifico = 'recuperando'\n\n# Processar cada linha para encontrar o texto específico\nfor index, row in df.iterrows():\n    for coluna in df.columns:\n        if texto_especifico in str(row[coluna]):\n            # Encontrar o índice da coluna\n            indice_coluna = df.columns.get_loc(coluna)\n\n            # Verificar se existe uma próxima coluna\n            if indice_coluna + 1 < len(df.columns):\n                # Mover o texto específico e a próxima coluna para as novas colunas\n                df.at[index, 'nova_coluna1'] = row[indice_coluna]\n                df.at[index, 'nova_coluna2'] = row[indice_coluna + 1]\n                break\n\n# Reordenar as colunas para que as novas colunas sejam as primeiras\ncolunas_finais = ['nova_coluna1', 'nova_coluna2'] + [col for col in df.columns if col not in ['nova_coluna1', 'nova_coluna2']]\ndf = df[colunas_finais]\n\n# Salvar o novo DataFrame em um novo arquivo CSV\ndf.to_csv('output.csv', index=False, sep=';')\n```",
+      "descData": {
+        "emoji": {
+          
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "hellitonsoare+2rksm2rmzs4e98mq3o5+330jlghwqjw6t68ispo+0jaotf702j@boards.trello.com",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "idChecklists": [
+        
+      ],
+      "idLabels": [
+        
+      ],
+      "idList": "66bfb7ad82ddcfa9c5f6ece3",
+      "idMemberCreator": "5c2f99df6d44ae59459e9b15",
+      "idMembers": [
+        
+      ],
+      "idMembersVoted": [
+        
+      ],
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "idShort": 8,
+      "idAttachmentCover": null,
+      "labels": [
+        
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Processar",
+      "nodeId": "ari:cloud:trello::card/workspace/60cb5912a4e12b48e59c7164/66c6404d6d18004020c091dc",
+      "pos": 524288,
+      "shortLink": "As3zI0fT",
+      "shortUrl": "https://trello.com/c/As3zI0fT",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/As3zI0fT/8-processar",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [
+        
+      ],
+      "pluginData": [
+        
+      ],
+      "customFieldItems": [
+        
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "66bfa6d610ea602ee6bb6a2c",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "name": "",
+      "color": "blue",
+      "uses": 0
+    },
+    {
+      "id": "66bfa6d610ea602ee6bb6a21",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "name": "",
+      "color": "green",
+      "uses": 0
+    },
+    {
+      "id": "66bfa6d610ea602ee6bb6a2f",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "name": "",
+      "color": "orange",
+      "uses": 0
+    },
+    {
+      "id": "66bfa6d610ea602ee6bb6a24",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "name": "",
+      "color": "purple",
+      "uses": 0
+    },
+    {
+      "id": "66bfa6d610ea602ee6bb6a23",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "name": "",
+      "color": "red",
+      "uses": 0
+    },
+    {
+      "id": "66bfa6d610ea602ee6bb6a25",
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "name": "",
+      "color": "yellow",
+      "uses": 0
+    }
+  ],
+  "lists": [
+    {
+      "id": "66bfa6e2408de8646ecea5c9",
+      "name": "Modelo do Projeto",
+      "closed": false,
+      "color": null,
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "pos": 65536,
+      "subscribed": false,
+      "softLimit": null,
+      "type": null,
+      "datasource": {
+        "filter": false
+      },
+      "creationMethod": null,
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/60cb5912a4e12b48e59c7164/66bfa6e2408de8646ecea5c9"
+    },
+    {
+      "id": "66bfb7ad82ddcfa9c5f6ece3",
+      "name": "Feito",
+      "closed": false,
+      "color": null,
+      "idBoard": "66bfa6d64acef3f062b45b99",
+      "pos": 131072,
+      "subscribed": false,
+      "softLimit": null,
+      "type": null,
+      "datasource": {
+        "filter": false
+      },
+      "creationMethod": null,
+      "idOrganization": "60cb5912a4e12b48e59c7164",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/60cb5912a4e12b48e59c7164/66bfb7ad82ddcfa9c5f6ece3"
+    }
+  ],
+  "members": [
+    {
+      "id": "5c2f99df6d44ae59459e9b15",
+      "aaId": "70121:986eded8-685e-400f-ae65-4eea08b8c49d",
+      "activityBlocked": false,
+      "avatarHash": "eeab094a0b9dd057bd63197b105a1532",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Helliton Soares Mesquita",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [
+        
+      ],
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [
+        
+      ],
+      "initials": "HM",
+      "memberType": "normal",
+      "nonPublic": {
+        "fullName": "Helliton Soares Mesquita",
+        "initials": "HM",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c2f99df6d44ae59459e9b15/eeab094a0b9dd057bd63197b105a1532",
+        "avatarHash": "eeab094a0b9dd057bd63197b105a1532"
+      },
+      "nonPublicAvailable": true,
+      "products": [
+        
+      ],
+      "url": "https://trello.com/hellitonsoaresmesquita",
+      "username": "hellitonsoaresmesquita",
+      "status": "disconnected"
+    }
+  ],
+  "checklists": [
+    
+  ],
+  "customFields": [
+    
+  ],
+  "memberships": [
+    {
+      "id": "66bfa6d64acef3f062b45ba5",
+      "idMember": "5c2f99df6d44ae59459e9b15",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false
+    }
+  ],
+  "pluginData": [
+    
+  ]
+}
